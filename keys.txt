@@ -1,0 +1,5 @@
+Transcriber:
+openai_API_key_1 = 
+
+Multi-Agent Editor (optional):
+openai_API_key_2 = 
